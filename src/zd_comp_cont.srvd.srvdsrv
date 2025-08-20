@@ -1,0 +1,4 @@
+@EndUserText.label: 'ABAP2UI5 Component Container demo'
+define service zd_comp_cont {
+  expose zc_comp_cont;
+}

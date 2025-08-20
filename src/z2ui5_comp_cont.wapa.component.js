@@ -1,0 +1,2 @@
+jQuery.sap.registerModulePath("z2ui5","/sap/bc/ui5_ui5/sap/z2ui5");sap.ui.define(["sap/suite/ui/generic/template/lib/AppComponent"],function(e){"use strict";return e.extend("z2ui5compcont.Component",{metadata:{manifest:"json"}})});      
+//# sourceMappingURL=Component.js.map                                                                                                                                                                                                                          

@@ -1,0 +1,2 @@
+{"version":3,"file":"Component.js","names":["jQuery","sap","registerModulePath","ui","define","Component","extend","metadata","manifest"],"sources":["Component-dbg.js"],"mappings":"AACAA,OAAOC,IAAIC,mBAAmB,iBAAkB,sCAEhDD,IAAIE,GAAGC,OACH,CAAC,kDACD,SAAUC+
+,GACN,aAEA,OAAOA,EAAUC,OAAO,0BAA2B,CAC/CC,SAAU,CACNC,SAAU,SAGtB","ignoreList":[]}                                                                                                                                                                              
